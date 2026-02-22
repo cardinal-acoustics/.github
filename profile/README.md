@@ -10,7 +10,7 @@ The system integrates automated multi-recorder event matching, frequency-selecti
 
 CARDINAL is described in the following preprint:
 
-> Cissel, R.S., Brown, P.O., and Eisen, M.B. (2026). Automated three-dimensional localization of calling birds with small passive acoustic arrays in complex soundscapes. *bioRxiv*.
+> Eisen, M.B., Brown, P.O., and Matias A.S. (2026). Automated localization of calling birds with small passive acoustic arrays in complex soundscapes. *bioRxiv*.
 
 Code and data are actively being prepared for release. We will post:
 
